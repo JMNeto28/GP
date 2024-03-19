@@ -1,13 +1,13 @@
 # GP
 ## How to configure project
-Create venv:
-py -m venv venv
-run:
-.\venv\Scripts\Activate.ps1
-In windows:
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-Install:
-pip install mysql
-pip install flask
-execute:
-python -m flask run
+Create venv:<br />
+py -m venv venv<br />
+run: <br />
+.\venv\Scripts\Activate.ps1 <br />
+In windows:<br />
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned<br />
+Install:<br />
+pip install mysql<br />
+pip install flask<br />
+execute:<br />
+python -m flask run<br />
